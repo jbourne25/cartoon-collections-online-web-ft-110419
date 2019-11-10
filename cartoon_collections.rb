@@ -17,15 +17,7 @@ def long_planeteer_calls(array)
   end
 end
   
-# def long_planeteer_calls(array)
-#   i = 0 
-#   if i < array.length 
-#     yield array[i]
-#     i += 1
-#   end
-# end 
-
-def find_the_cheese# code an argument here
-  # the array below is here to help
-  cheese_types = ["cheddar", "gouda", "camembert"]
+def find_the_cheese(array)
+  
+  #cheese_types = ["cheddar", "gouda", "camembert"]
 end
