@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)
    
-  if each_with_index.array |name|
+  if array.each_with_index |name|
     puts 
 end
 
