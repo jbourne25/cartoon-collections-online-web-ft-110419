@@ -1,7 +1,7 @@
 def roll_call_dwarves(array)
    
   if array.each_with_index |name, index|
-    puts "#{index}"
+    puts "#{index} #{name}"
 end
 
 def summon_captain_planet# code an argument here
